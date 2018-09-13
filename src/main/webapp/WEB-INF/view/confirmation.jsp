@@ -1,10 +1,3 @@
-<%--
-    Document   : confirmation
-    Created on : Sep 9, 2009, 12:20:30 AM
-    Author     : lingani tshuma
---%>
-
-
 <div id="singleColumn">
 
     <p id="confirmationText">
