@@ -35,11 +35,11 @@
   <security-constraint>
     <display-name>Admin</display-name>
     <web-resource-collection>
-      <web-resource-name>Azimbo Administration</web-resource-name>
+      <web-resource-name>tugcankoparan Administration</web-resource-name>
       <url-pattern>/admin/*</url-pattern>
     </web-resource-collection>
     <auth-constraint>
-      <role-name>azimboAdmin</role-name>
+      <role-name>tugcankoparan</role-name>
     </auth-constraint>
   </security-constraint>
   <login-config>
@@ -51,6 +51,6 @@
     </form-login-config>
   </login-config>
   <security-role>
-    <role-name>azimboAdmin</role-name>
+    <role-name>tugcankoparan</role-name>
   </security-role>
 </web-app>
