@@ -1,10 +1,3 @@
-<%--
-    Document   : cart
-    Created on : May 20, 2010, 12:20:12 AM
-    Author     : lingani tshuma
---%>
-
-
 <div id="singleColumn">
 
     <c:choose>
