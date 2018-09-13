@@ -1,10 +1,3 @@
-<%--
-    Document   : checkout
-    Created on : May 21, 2010, 12:20:23 AM
-    Author     : tgiunipero
---%>
-
-
 <div id="singleColumn">
 
     <h2>checkout</h2>
