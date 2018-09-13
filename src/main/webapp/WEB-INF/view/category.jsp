@@ -1,10 +1,3 @@
-<%--
-    Document   : category
-    Created on : May 21, 2010, 12:20:23 AM
-    Author     : lingani tshuma
---%>
-
-
 <div id="categoryLeftColumn">
 
     <c:forEach var="category" items="${categories}">
