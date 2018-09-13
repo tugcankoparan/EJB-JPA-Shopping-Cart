@@ -1,7 +1,7 @@
 
 <div id="indexLeftColumn">
     <div id="welcomeText">
-        <p style="font-size: larger">Welcome to the home of the Azimbo Online Booker.</p>
+        <p style="font-size: larger">Welcome to the home of the Tuğcan Koparan Online Booker.</p>
 
         <p>Enjoy browsing and learning more about our unique home delivery
             service bringing you fresh organic produce, dairy, meats, breads
